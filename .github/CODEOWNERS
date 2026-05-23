@@ -1,0 +1,3 @@
+# Default owner — required reviewer for all PRs from outside contributors.
+# Maintainers can self-merge their own PRs (per CONTRIBUTING.md).
+* @philrox
